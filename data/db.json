@@ -1,0 +1,18 @@
+{
+    "ids": {
+      "Item": 5,
+      "ItemList" : 3
+    },
+    "models": {
+      "Item": {
+        "1": "{\"name\":\"Milk\",\"description\":\"Low Fat Milk\",\"id\":1,\"itemListId\":2,\"price\":\"3.8\"}",
+        "2": "{\"name\":\"Bread\",\"description\":\"Wheat Bread\",\"id\":2,\"itemListId\":2,\"price\":\"0.8\"}",
+        "3": "{\"name\":\"Ice Cream\",\"description\":\"Vanilla\",\"id\":3,\"itemListId\":2,\"price\":\"8.5\"}",
+        "4": "{\"name\":\"Carrots\",\"description\":\"8 oz\",\"id\":4,\"itemListId\":1,\"price\":\"3.2\"}"
+      },
+      "ItemList":{
+        "2": "{\"name\":\"Vegetables\",\"description\":\"8 oz\",\"id\":2,\"price\":\"1.8\"}",
+        "3": "{\"name\":\"Dairy\",\"description\":\"Dairy Products\",\"id\":3,\"price\":\"4.5\"}"
+      }
+    }
+  }
